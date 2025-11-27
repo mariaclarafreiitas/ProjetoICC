@@ -1,18 +1,18 @@
 ---
 
-# 🚌 **Levantamento de Requisitos – Sistema de Rastreamento do Circular da UFRPE**
+ 🚌 **Levantamento de Requisitos – Sistema de Rastreamento do Circular da UFRPE**
 
 ## Introdução à Ciência da Computação
 
 ---
 
-## 1. Identificação do Problema
+ 1. Identificação do Problema
 
-### **Qual problema o software resolverá?**
+ **Qual problema o software resolverá?**
 
 O software será uma solução para os alunos da UFRPE que constantemente precisam saber onde o circular está para se locomover dentro da universidade. Hoje essa informação não é clara e faz muitos estudantes perderem tempo esperando o transporte.
 
-### **Quais são os objetivos principais do sistema?**
+ **Quais são os objetivos principais do sistema?**
 
 * Auxiliar na mobilidade universitária.
 * Mostrar a localização do circular em tempo real.
@@ -20,19 +20,19 @@ O software será uma solução para os alunos da UFRPE que constantemente precis
 
 ---
 
-## **2. Partes Interessadas**
+ **2. Partes Interessadas**
 
-### **Quem são os usuários finais?**
+ **Quem são os usuários finais?**
 
 * Alunos da UFRPE.
 
-### **Quais outras partes serão impactadas?**
+ **Quais outras partes serão impactadas?**
 
 * A própria estrutura da UFRPE, pois o sistema melhora a organização da locomoção e reduz atrasos dos estudantes nas aulas.
 
 ---
 
-## **3. Requisitos Funcionais (RF)**
+ **3. Requisitos Funcionais (RF)**
 
 As funcionalidades que o sistema deve obrigatoriamente oferecer:
 
@@ -43,7 +43,7 @@ As funcionalidades que o sistema deve obrigatoriamente oferecer:
 
 ---
 
-## **4. Requisitos Não Funcionais (RNF)**
+ **4. Requisitos Não Funcionais (RNF)**
 
 Condições sobre desempenho, qualidade e ambiente do sistema:
 
@@ -56,7 +56,7 @@ Condições sobre desempenho, qualidade e ambiente do sistema:
 
 ---
 
-## **5. Fluxo de Processo (básico)**
+ **5. Fluxo de Processo (básico)**
 
 1. O usuário abre o app e faz login (ou entra como visitante).
 2. O sistema acessa o mapa.
@@ -70,7 +70,7 @@ Condições sobre desempenho, qualidade e ambiente do sistema:
 
 ---
 
-## **6. Prototipação Inicial (conceito textual)**
+ **6. Prototipação Inicial (conceito textual)**
 
 * **Tela inicial:** botão “Ver Mapa”.
 * **Tela do mapa:** mostra circular em tempo real, rota e pontos.
@@ -80,7 +80,7 @@ Condições sobre desempenho, qualidade e ambiente do sistema:
 
 ---
 
-## **7. Validação com o Usuário**
+ **7. Validação com o Usuário**
 
 Após apresentar o modelo para outros alunos, será possível ajustar:
 
@@ -90,7 +90,7 @@ Após apresentar o modelo para outros alunos, será possível ajustar:
 
 ---
 
-## **8. Entidades (forte e fraca)**
+ **8. Entidades (forte e fraca)**
 
 * **Entidade Forte:** *Usuário*
 

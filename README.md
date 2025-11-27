@@ -102,7 +102,7 @@ Após apresentar o modelo para outros alunos, será possível ajustar:
 ---
 
 
-## link para visualização do disign do app: 
+## link para visualização do design do app: 
 
 https://www.canva.com/design/DAG3PY7oCSQ/Rshupfr7GeXcyBp-EvnkFA/edit?utm_content=DAG3PY7oCSQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 

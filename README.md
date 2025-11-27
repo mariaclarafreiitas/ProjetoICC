@@ -10,7 +10,7 @@
 
 ### **Qual problema o software resolverá?**
 
-O software será uma solução para os alunos da UFRPE que constantemente precisam saber onde o circular está para se locomover dentro da universidade. Hoje essa informação não é clara e faz muitos estudantes perderem tempo esperando o transporte.
+O software dará uma solução para os alunos da UFRPE que constantemente precisam saber onde o circular está para se locomover dentro da universidade. Hoje essa informação não é clara e faz muitos estudantes perderem tempo esperando o transporte.
 
 ### **Quais são os objetivos principais do sistema?**
 
@@ -58,7 +58,7 @@ Condições sobre desempenho, qualidade e ambiente do sistema:
 
 ## **5. Fluxo de Processo (básico)**
 
-1. O usuário abre o app e faz login (ou entra como visitante).
+1. O usuário abre o app e faz login.
 2. O sistema acessa o mapa.
 3. O rastreador envia a localização do circular em tempo real.
 4. O usuário visualiza:
@@ -75,8 +75,6 @@ Condições sobre desempenho, qualidade e ambiente do sistema:
 * **Tela inicial:** botão “Ver Mapa”.
 * **Tela do mapa:** mostra circular em tempo real, rota e pontos.
 * **Menu:** perfil do usuário, informações do campus, configuração.
-
-*(Você pode fazer um desenho simples à mão ou no Paint e anexar no documento.)*
 
 ---
 
@@ -102,7 +100,7 @@ Após apresentar o modelo para outros alunos, será possível ajustar:
 ---
 
 
-## link para visualização do disign do app: 
+## link para visualização do design do app: 
 
 https://www.canva.com/design/DAG3PY7oCSQ/Rshupfr7GeXcyBp-EvnkFA/edit?utm_content=DAG3PY7oCSQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 

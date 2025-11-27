@@ -76,7 +76,7 @@ Condições sobre desempenho, qualidade e ambiente do sistema:
 * **Tela do mapa:** mostra circular em tempo real, rota e pontos.
 * **Menu:** perfil do usuário, informações do campus, configuração.
 
-*(Você pode fazer um desenho simples à mão ou no Paint e anexar no documento.)*
+
 
 ---
 
